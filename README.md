@@ -29,4 +29,4 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Falah Aali
 
 # Link Streamlitnya
-
+https://telco-churn-app-a11202214367.streamlit.app/
