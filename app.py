@@ -162,7 +162,7 @@ if st.session_state.history:
 st.markdown("""
 <hr>
 <p style='text-align:center; font-size:14px; color:gray;'>
-Developed by <b>Awaludin</b> | Telco Churn Prediction Dashboard | Streamlit
+Developed by <b>Falah Aali</b> | Telco Churn Prediction Dashboard | Streamlit
 </p>
 """, unsafe_allow_html=True)
 
